@@ -1,0 +1,13 @@
+package day20210808;
+
+
+
+
+public class Test∂‡Ã¨ {
+	
+	public static void main(String []args)
+	{
+		
+	}
+
+}
